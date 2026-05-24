@@ -1,0 +1,13 @@
+.DS_Store
+Derived Data/
+build/
+.build/
+*.xcarchive
+*.ipa
+.env
+local.properties
+*.swiftpm
+.swiftpm/
+Package.resolved
+.idea/
+*.iml
